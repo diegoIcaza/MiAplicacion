@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiAplicacion</string>
+    <string name="BotonDatosPersonales">Datos Personales</string>
+    <string name="BotonDatosAcademicos">Datos Academicos</string>
+    <string name="BotonExperienciasLaborales">Experiencias Laborales</string>
+    <string name="BotonContactosReferencias">Contactos y Referencias</string>
+    <string name="BotonConocimientosHabilidades">Conocimiento y Habilidades</string>
+    <string name="tv1">Mi Curriculum Vitae</string>
+    <string name="BotonRegresar">Regresar</string>
+    <string name="tv2">Datos Personales</string>
+    <string name="BotonAnterior">Atras</string>
+    <string name="tv3">Datos Academicos</string>
+    <string name="BotonRetroceder">Retroceder</string>
+    <string name="tv4">Experiencias Laborales</string>
+    <string name="BotonSalir">Salir de la aplicacion</string>
+</resources>
